@@ -10,3 +10,5 @@ Made twitter account to write uptades again ! </br>
 **Goals:** Compilation, Git update (FCC projects) + Cheat sheet / FCC3 start
 
 ### R1D2
+Managed to compile scss into css thanks to VCodeStudio. Project update on Git & CSS Cheat Sheet UX review/planning. </br>
+**Goals:** Basic grid layout (?)
