@@ -16,3 +16,8 @@ Managed to compile scss into css thanks to VCodeStudio. Project update on Git & 
 ### R1D3 (1H30/3H30)
 Worked on the "CSS Model Grid" from the start. Have basic layout options vith areas, but struggling to manage some text paddings and margins.
 **Goals:** Project to continue
+
+### R1D4 (2H/5H30)
+Finally understood some things with grids, I got to rewrite my entire code to this way of thinking.
+Going to be busy this weekend, hopefully I'll get to work a little hour tomorrow.
+**Goals:** Code rearrangement and layout rework
