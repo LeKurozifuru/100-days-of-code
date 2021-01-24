@@ -21,3 +21,10 @@ Worked on the "CSS Model Grid" from the start. Have basic layout options vith ar
 Finally understood some things with grids, I got to rewrite my entire code to this way of thinking.
 Going to be busy this weekend, hopefully I'll get to work a little hour tomorrow.
 **Goals:** Code rearrangement and layout rework
+
+### R1D5, R1D6 (0H/5H30)
+... Got a friend over, wanted to help him with his Linux but the task is delayed !
+
+### R1D7 (2H/7H30)
+Code rearrangement and grids. Worked on inheritence and writing → better grasp on things
+**Goals:** Completion of the "Links" section + start of the "Buttons" section
