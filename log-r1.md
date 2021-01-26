@@ -29,6 +29,6 @@ Going to be busy this weekend, hopefully I'll get to work a little hour tomorrow
 Code rearrangement and grids. Worked on inheritence and writing → better grasp on things
 **Goals:** Completion of the "Links" section + start of the "Buttons" section
 
-## R1D8, R1D9 (4H/11H30)
+### R1D8, R1D9 (4H/11H30)
 Links, Buttons, Inputs declaration + basic styling. Worked on child/siblings selectors as well for code efficiency.
 **Goals:** Radio Buttons + Checkboxes bases
