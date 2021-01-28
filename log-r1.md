@@ -35,4 +35,4 @@ Links, Buttons, Inputs declaration + basic styling. Worked on child/siblings sel
 
 ### R1D10, R1D11 (3H/14H30)
 Radio + Checkboxes strugle. Fine tunning + start of a custom set <br>
-**Goals:** Radio + Check custom
+**Goals:** Start of Radio custom
