@@ -32,3 +32,7 @@ Code rearrangement and grids. Worked on inheritence and writing → better grasp
 ### R1D8, R1D9 (4H/11H30)
 Links, Buttons, Inputs declaration + basic styling. Worked on child/siblings selectors as well for code efficiency.  </br>
 **Goals:** Radio Buttons + Checkboxes bases
+
+### R1D10, R1D11 (3H/14H30)
+Radio + Checkboxes strugle. Fine tunning + start of a custom set <br>
+**Goals:** Radio + Check custom
