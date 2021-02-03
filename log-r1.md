@@ -36,3 +36,10 @@ Links, Buttons, Inputs declaration + basic styling. Worked on child/siblings sel
 ### R1D10, R1D11 (3H/14H30)
 Radio + Checkboxes strugle. Fine tunning + start of a custom set <br>
 **Goals:** Start of Radio custom
+
+### R1D12, R1D13 (2H/16H30)
+Radio + Chechboxes custom **→ To continue**
+
+### R1D14, R1D15 (~2H/18H30)
+Finished custom radio and check. Note for the future: Extract the code to use it as a function <br>
+**Goals:** FCC#3 Planning + listing
