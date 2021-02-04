@@ -43,3 +43,7 @@ Radio + Chechboxes custom **→ To continue**
 ### R1D14, R1D15 (~2H/18H30)
 Finished custom radio and check. Note for the future: Extract the code to use it as a function <br>
 **Goals:** FCC#3 Planning + listing
+
+### R1D16 ~ R1D18 (2H/20H30)
+Started over the FCC#03 project with design + base code. Use of flex complicated for now.
+**Goals:** Motivation + test for base structure
