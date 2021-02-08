@@ -45,5 +45,9 @@ Finished custom radio and check. Note for the future: Extract the code to use it
 **Goals:** FCC#3 Planning + listing
 
 ### R1D16 ~ R1D18 (2H/20H30)
-Started over the FCC#03 project with design + base code. Use of flex complicated for now.
+Started over the FCC#03 project with design + base code. Use of flex complicated for now. <br>
 **Goals:** Motivation + test for base structure
+
+### R1D19 ~ R1D21 (1H30/21H30)
+Getting ka bit behind but managed to do the first sections of the Landing Page. Updated social media + struggled with my friend's Mate laptop <br>7
+**Goals:** FCC#3 to continue!
