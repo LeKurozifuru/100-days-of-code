@@ -49,5 +49,5 @@ Started over the FCC#03 project with design + base code. Use of flex complicated
 **Goals:** Motivation + test for base structure
 
 ### R1D19 ~ R1D21 (1H30/21H30)
-Getting ka bit behind but managed to do the first sections of the Landing Page. Updated social media + struggled with my friend's Mate laptop <br>7
+Getting a bit behind but managed to do the first sections of the Landing Page. Updated social media + struggled with my friend's Mate laptop <br>
 **Goals:** FCC#3 to continue!
