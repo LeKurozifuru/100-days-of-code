@@ -11,4 +11,4 @@ Kudos to these persons who give tools to learn and motivate others.<br>
 :heart: <a href="https://www.freecodecamp.org/">freecodecamp</a>, that help people learn of to code for free<br><br>
 ## Contents
 * [Rules](rules.md)
-* [FAQ](FAQ.md)
+* [Resources](resources.md)
