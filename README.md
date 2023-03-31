@@ -1,16 +1,14 @@
-## "I've joined the #100DaysOfCode Challenge"
-[FAILED... 19% - 2021 ARCHIVE]<br>
-Not unlike many persons, I decide in 2021 to start over and start my coding journey. <br>
-Always appreciative of technology, I messed around with python, arduino and javascript a bit, but I never got far in my projects and ideas. That's the main reason I decided to change my habits for the better and relearn how to do things, starting with somethings I didn't quite know: HTML and CSS.<br><br>
-What can be found here are my logs about my personal progress and some thoughs on it!<br>
-
+## "I've [tried to join] the #100DaysOfCode Challenge"
+A coding journey is not given point in someone's personal life. <br>
+It is not made in a year, nor is it a perfect continious process traced in advance. <br> <br>
+Always appreciative of technology, I messed around with coding before, but ever got far in my projects and ideas, now archived somewhere in a drive. That's the main reason I wish to attempt to this challenge again in the future, to complete my drafts and grow as a person.<br><br>
+This repo will document my work, stuggles and thoughts on this journey.<br>
+:red_circle: [2021](log-r1.md) - FAILED @ 19% <br>
+:large_orange_diamond: [2023](log-r2.md) - TO START
 ## Thanks
-Kudos to what gives me the tools to learn and motivate myself.<br>
+Kudos to these persons who give tools to learn and motivate others.<br>
 :heart: <a href="https://twitter.com/ka11away">Alex Kallaway</a>, the founder of this challenge <br>
 :heart: <a href="https://www.freecodecamp.org/">freecodecamp</a>, that help people learn of to code for free<br><br>
-
 ## Contents
 * [Rules](rules.md)
-* [Log](log.md)
 * [FAQ](FAQ.md)
-* [Resources](resources.md)
